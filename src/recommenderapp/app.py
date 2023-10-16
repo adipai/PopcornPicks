@@ -27,7 +27,7 @@ def landing_page():
     """
     Renders the landing page.
     """
-    return render_template("landing_page.html")
+    return render_template("search_page.html")
 
 
 @app.route("/get_started", methods=["POST"])

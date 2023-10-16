@@ -51,4 +51,4 @@ def recommend_for_new_user(user_rating):
 
     return list(join_movies_and_recommendations["title"][:201]), \
         list(join_movies_and_recommendations["genres"][:201]), \
-            list(join_movies_and_recommendations["imbd_id"][:201])
+            list(join_movies_and_recommendations["imdb_id"][:201])
