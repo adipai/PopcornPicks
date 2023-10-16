@@ -5,7 +5,7 @@ Module for routing all calls from the frontend
 import json
 import sys
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, redirect, render_template, request, url_for
 from flask_cors import CORS
 from search import Search
 from utils import beautify_feedback_data, send_email_to_user
@@ -28,6 +28,22 @@ def landing_page():
     Renders the landing page.
     """
     return render_template("landing_page.html")
+
+
+@app.route("/get_started", methods=["POST"])
+def get_started():
+    """
+    Handle the Get Started button click and redirect to search_page.
+    """
+    return redirect(url_for("search_page.html"))
+
+
+@app.route("/search_page")
+def search_page():
+    """
+    Renders the search page.
+    """
+    return render_template("search_page.html")
 
 
 @app.route("/predict", methods=["POST"])
