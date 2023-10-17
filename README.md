@@ -4,7 +4,7 @@
 PopcornPicks is more than just a movie recommender system; it's a gateway to a world of cinematic adventures. With an ever-expanding library of films and a powerful recommendation algorithm, PopcornPicks is here to transform the way you discover, enjoy, and connect with movies.
 
 ### Overview
-PopcornPicks is a webapp where you can get movie recommedations based the movies you like
+PopcornPicks is a web app where you can get movie recommendations based on the movies you like.
 
 
 
@@ -18,18 +18,18 @@ PopcornPicks is a webapp where you can get movie recommedations based the movies
 3. Start enjoying personalized movie recommendations!
 
 ### Documentation 📚
-Refer to Wiki page [here](https://github.com/git-ankit/MovieRecommender/wiki/Documentation)
+Refer to the Wiki page [here](https://github.com/git-ankit/MovieRecommender/wiki/Documentation)
 
 ### Bug? 🐛
-Raise a issue on this repository, we would love to look at it ❤️
+Raise an issue on this repository, we would love to look at it ❤️
 
 ### Contributors
-
+#### [Aditya Pai](https://github.com/adipai) (abrahma), [Ananya Mantravadi](https://github.com/ananya173147) (amantra), [Rishi Singhal](https://github.com/rishi2019194) (rsingha4), [Samarth Shetty](https://github.com/samarthshetty09) (sshett22)
 
 ### Join the PopcornPicks Community:
 
 Contribute to the project and help us improve recommendations.
 Share your experience and film discoveries with us.
 Together, let's make PopcornPicks the ultimate movie companion!
-PopcornPicks is more than just code; it's a passion for cinema, and we invite you to be a part of this exciting journey. Start exploring, sharing, and discovering movies like never before with PopcornPicks !
+PopcornPicks is more than just code; it's a passion for cinema, and we invite you to be a part of this exciting journey. Start exploring, sharing, and discovering movies like never before with PopcornPicks!
 Let's make movie nights extraordinary together!
