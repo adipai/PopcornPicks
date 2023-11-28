@@ -1,0 +1,17 @@
+#login-form {
+    margin: auto; /*so the form is in the center of it's container */
+}
+
+#Signup_text {
+    padding-top: 2%;
+    margin: auto;
+}
+
+#login_alert {
+    margin: 0 auto;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: none;
+}
